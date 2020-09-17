@@ -2,7 +2,7 @@
 **xkendx/xkendx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Hi there 👋
-Kenan is here. I'm a software engineer, interested in everything. 
+Kenan is here. I'm a full stack engineer, interested in everything. 
 
 <img src="https://github.com/xkendx/xkendx/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
 
