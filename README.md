@@ -10,8 +10,8 @@ Kenan is here. I'm a full stack engineer. I'm interested in everything.
 I prefer React & React Native for web/mobile front-end, .NET technologies for back-end development but I love everything about JS!
 <br/> If you wanna check out my stack you can find more at tech stack badge on below.
 
-<a href="https://stackshare.io/ezranbayantemur/personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/ezranbayantemur/personal-stack">
+<a href="https://stackshare.io/xkendx/personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/xkendx/personal-stack">
 </a>
 -->
 
