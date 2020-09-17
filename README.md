@@ -2,7 +2,7 @@
 **xkendx/xkendx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Hi there 👋
-Kenan is here. I'm a full stack engineer, interested in everything. 
+Kenan is here. I'm a full stack engineer. I'm interested in everything.
 
 <img src="https://github.com/xkendx/xkendx/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
 
@@ -26,7 +26,7 @@ Knowledge should spread! 💪
 </a>
 <!-- <a href="https://www.instagram.com/kenandeniz/" target="_blank">
     <img src="https://img.shields.io/badge/%20-instagram-fbad50" alt="https://www.instagram.com/kenandeniz/">
-</a>
+</a> -->
 <a href="mailto:kendentry@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:kendentry@gmail.com">
 </a>
