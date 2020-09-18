@@ -6,7 +6,7 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
 
 <img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=300 height=auto align="right">
 
-### What am I use? 🛠 
+### 🛠  What am I use?
 <ul>
  <li>Python</li>
  <li>HTML</li>
