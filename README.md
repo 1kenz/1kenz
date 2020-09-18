@@ -17,6 +17,7 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
  <li>MySQL</li>
  <li>MongoDB</li>
  <li>MariaDB</li>
+ <li>Kali Linux</li>
  </ul>
 <!-- 
 <a href="https://stackshare.io/xkendx/personal-stack">
