@@ -4,7 +4,7 @@
 ## Hi there 👋
 Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist | Analysts.
 
-<img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=200 height=auto align="right">
+<img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=300 height=auto align="right">
 
 <!-- ### What I'm use? 🛠  
 I prefer React & React Native for web/mobile front-end, .NET technologies for back-end development but I love everything about JS!
