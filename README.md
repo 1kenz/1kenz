@@ -4,7 +4,7 @@
 ## Hi there 👋
 Kenan is here. I'm a full stack engineer. I'm interested in everything.
 
-<img src="https://github.com/xkendx/xkendx/blob/master/react.gif" alt="react-native" width=200 height=200 align="right">
+<img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=200 height=200 align="right">
 
 <!-- ### What I'm use? 🛠  
 I prefer React & React Native for web/mobile front-end, .NET technologies for back-end development but I love everything about JS!
