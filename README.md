@@ -12,9 +12,10 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
  <li>HTML</li>
  <li>CSS</li>
  <li>JS</li>
- <li>React/React Native</li>
+ <li>React/ React Native</li>
  <li>Node.js</li>
  <li>MySQL</li>
+ <li>Oracle</li>
  <li>MongoDB</li>
  <li>MariaDB</li>
  <li>Kali Linux</li>
