@@ -2,9 +2,9 @@
 **xkendx/xkendx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Hi there 👋
-Kenan is here. I'm a full stack developer.
+Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist | Analysts.
 
-<img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=200 height=200 align="right">
+<img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=200 height=auto align="right">
 
 <!-- ### What I'm use? 🛠  
 I prefer React & React Native for web/mobile front-end, .NET technologies for back-end development but I love everything about JS!
@@ -13,12 +13,11 @@ I prefer React & React Native for web/mobile front-end, .NET technologies for ba
 <a href="https://stackshare.io/xkendx/personal-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/xkendx/personal-stack">
 </a>
--->
 
 You may find some experimental and forked projects on my repos, feel free to contribute or using them.
 Knowledge should spread! 💪
 
-<!-- <a href="https://twitter.com/kenandeniz" target="_blank">
+<a href="https://twitter.com/kenandeniz" target="_blank">
     <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/kenandeniz">
 </a> -->
 <a href="https://www.linkedin.com/in/kenan-deniz" target="_blank">
