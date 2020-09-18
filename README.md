@@ -6,16 +6,18 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
 
 <img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=300 height=auto align="right">
 
-### What I'm use? 🛠  
+### What I'm use? 🛠 
+<ul>
  <li>Python</li>
  <li>HTML</li>
  <li>CSS</li>
-   <li>JS</li>
-   <li>React/React Native</li>
-   <li>Node.js</li>
-   <li>MySQL</li>
-   <li>MongoDB</li>
-   <li>MariaDB</li>
+ <li>JS</li>
+ <li>React/React Native</li>
+ <li>Node.js</li>
+ <li>MySQL</li>
+ <li>MongoDB</li>
+ <li>MariaDB</li>
+ </ul>
 <!-- 
 <a href="https://stackshare.io/xkendx/personal-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/xkendx/personal-stack">
