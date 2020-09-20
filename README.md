@@ -5,7 +5,7 @@
 Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist | Analyst
 
 <img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=300 height=auto align="right">
-
+## Knowledge always in my scope !!!
 ### 🛠  What am I use?
 <ul>
  <li>Python</li>
