@@ -5,6 +5,8 @@
 Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist | Analyst
 <br>
 <img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=300 height=auto align="right">
+<img src="https://github.com/xkendx/xkendx/blob/master/clarusway.png" alt="clarusway" width=300 height=auto align="right">
+
 ## Knowledge always in my scope !!! <br><br>
 ### 🛠  What am I use?
 <ul>
