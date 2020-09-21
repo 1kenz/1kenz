@@ -15,6 +15,7 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
  <li>Node.js</li>
  <li>MySQL</li>
  <li>Oracle</li>
+ <li>PostgreSQL</li>
  <li>MongoDB</li>
  <li>MariaDB</li>
  <li>django</li>
