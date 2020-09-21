@@ -9,6 +9,9 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
 ### 🛠  What am I use?
 <ul>
  <li>Kali Linux</li>
+ <li>Ubuntu</li>
+ <li>VS Code</li>
+ <li>Sublime Text</li>
  <li>Python</li>
  <li>HTML</li>
  <li>CSS</li>
