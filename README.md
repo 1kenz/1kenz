@@ -15,6 +15,7 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
  <li>Python</li>   <img src="https://github.com/xkendx/xkendx/blob/master/clarusway.png" alt="clarusway" width=300 height=auto align="right">
  <li>HTML</li>  
  <li>CSS</li>
+ <li>Bootstrap</li>
  <li>JS</li>
  <li>React/ React Native</li>
  <li>Node.js</li>
