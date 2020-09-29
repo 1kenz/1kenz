@@ -31,7 +31,7 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
 </a>
 
 <a href="https://stackoverflow.com/users/14359078/xkendx" target="_blank">
-    <img src="https://img.shields.io/badge/%20-stackover-flow-%231DA1F2" alt="https://stackoverflow.com/users/14359078/xkendx">
+    <img src="https://img.shields.io/badge/%20-stackoverflow-%231DA1F2" alt="https://stackoverflow.com/users/14359078/xkendx">
 </a>
 <a href="https://www.linkedin.com/in/kenan-deniz" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/kenan-deniz">
