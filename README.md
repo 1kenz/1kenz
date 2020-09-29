@@ -42,6 +42,6 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
 <a href="mailto:kendentry@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:kendentry@gmail.com">
 </a>
-<a href="https://medium.com/@kendentry" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@kendentry">
+<a href="https://medium.com/@xkendx" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@xkendx">
 </a>
