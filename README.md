@@ -26,14 +26,10 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
  <li>MariaDB</li>
  <li>django</li>
  </ul>
-<!-- 
-<a href="https://stackshare.io/xkendx/personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/xkendx/personal-stack">
+<a href="https://stackshare.io/xkendx/my-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/xkendx/my-stack">
 </a>
-
-You may find some experimental and forked projects on my repos, feel free to contribute or using them.
-Knowledge should spread! 💪
-
+<!--
 <a href="https://twitter.com/kenandeniz" target="_blank">
     <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/kenandeniz">
 </a> -->
