@@ -29,10 +29,10 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
 <a href="https://stackshare.io/xkendx/my-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/xkendx/my-stack">
 </a>
-<!--
+
 <a href="https://stackoverflow.com/users/14359078/xkendx" target="_blank">
-    <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://stackoverflow.com/users/14359078/xkendx">
-</a> -->
+    <img src="https://img.shields.io/badge/%20-stackover-flow-%231DA1F2" alt="https://stackoverflow.com/users/14359078/xkendx">
+</a>
 <a href="https://www.linkedin.com/in/kenan-deniz" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/kenan-deniz">
 </a>
