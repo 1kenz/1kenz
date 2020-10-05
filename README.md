@@ -43,6 +43,6 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@xkendx">
 </a>
 <a href="http://www.kenandeniz.com.tr" target="_blank">
-    <img src="https://img.shields.io/badge/%20-mysite-3498db" alt="http://www.kenandeniz.com.tr">
+    <img src="https://img.shields.io/badge/%20-mysite-2c3e50" alt="http://www.kenandeniz.com.tr">
 </a>
 
