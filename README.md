@@ -36,12 +36,13 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
 <a href="https://www.linkedin.com/in/kenan-deniz" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/kenan-deniz">
 </a>
-<!-- <a href="https://www.instagram.com/kenandeniz/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-instagram-fbad50" alt="https://www.instagram.com/kenandeniz/">
-</a> -->
 <a href="mailto:kendentry@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:kendentry@gmail.com">
 </a>
 <a href="https://medium.com/@xkendx" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@xkendx">
 </a>
+<a href="http://www.kenandeniz.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/%20-mysite-fff" alt="http://www.kenandeniz.com.tr">
+</a>
+
