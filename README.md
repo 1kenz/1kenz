@@ -5,6 +5,7 @@
 Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist | Analyst  <img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=300 height=auto align="right">
 
 ## Knowledge always in my scope !!! <br><br>
+
 ### 🛠  What am I use?
 
 <ul>
@@ -27,6 +28,7 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
  <li>MariaDB</li>
  <li>django</li>
  </ul>
+ 
 <a href="https://stackshare.io/xkendx/my-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/xkendx/my-stack">
 </a>
