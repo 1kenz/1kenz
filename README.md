@@ -21,6 +21,7 @@ Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist
  <li>React</li>
  <li>React Native</li>
  <li>Node.js</li>
+ <li>Express.js</li>
  <li>MySQL</li>
  <li>Oracle</li>
  <li>PostgreSQL</li>
