@@ -1,6 +1,8 @@
 <!--
 **xkendx/xkendx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>
+
 ## Hi there 👋
 Kenan is here. I'm a Full Stack Developer | IT & Information Security Specialist | Analyst  
 
