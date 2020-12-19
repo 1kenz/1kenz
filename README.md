@@ -8,7 +8,7 @@
 ## Hi there 👋
 Kenan is here. <br>
 I'm a Full Stack Developer | IT & Information Security Specialist | Analyst  
-
+<hr>
 ## Knowledge always in my scope !!! <br><br>
 
 ### 🛠  What am I use? <img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=300 height=auto align="right">
