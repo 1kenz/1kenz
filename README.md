@@ -10,7 +10,7 @@ Kenan is here. <br>
 I'm a Full Stack Developer | IT & Information Security Specialist | Analyst  
 
 <hr>
-
+<br><br>
 ## Knowledge always in my scope !!!
 
 <br><br>
