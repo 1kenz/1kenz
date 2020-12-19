@@ -3,7 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=tokyonight" align='right' width="40%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username="xkendx" alt="xkendx" /> </p>    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx alt="xkendx" /> </p>    
 
 ## Hi there 👋
 Kenan is here. <br>
