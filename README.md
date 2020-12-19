@@ -1,7 +1,9 @@
 <!--
 **xkendx/xkendx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>    <img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=tokyonight" align='right' width="45%">
+<img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=tokyonight" align='right' width="50%">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>    
 
 ## Hi there 👋
 
