@@ -8,7 +8,8 @@
 ## Hi there 👋
 
 ### Kenan is here. <br> 
-I'm a Full Stack & Mobile Developer | <br> IT & Information Security Specialist   | Analyst
+I'm a Full Stack & Mobile Developer  | <br> 
+IT & Information Security Specialist | Analyst
 
 ## 
 ## Knowledge always in my scope !!!
