@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>    
 
 ## Hi there 👋
-Kenan is here. \n I'm a Full Stack Developer | IT & Information Security Specialist | Analyst
+###Kenan is here. <br> 
+I'm a Full Stack Developer | IT & Information Security Specialist | Analyst
 
 
 ## Knowledge always in my scope !!!
