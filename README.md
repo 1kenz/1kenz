@@ -15,7 +15,7 @@ I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Ana
 
 
 ## Knowledge always in my scope !!!
-<img src="https://github.com/xkendx/xkendx/blob/master/react.gif" alt="react" width=375 height=auto align="right">
+<img src="https://github.com/xkendx/xkendx/blob/master/react.gif" alt="react" width=350 height=auto align="right">
 
 
 ### 🛠 What am I use? 
