@@ -1,20 +1,21 @@
 <!--
 **xkendx/xkendx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=tokyonight" align='right' width="60%">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=tokyonight" align='right' width="60%"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>    
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>
 
 ## Hi there 👋
 
-### Kenan is here. <br> 
-I'm a Full Stack & Mobile Developer  | <br> 
-IT & Information Security Specialist | Analyst
-## 
+### Kenan is here. <br>
+
+I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Analyst
+
+##
+
 ## Knowledge always in my scope !!!
 
-
-### 🛠  What am I use? <img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=300 height=auto align="right">
+### 🛠 What am I use? <img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=300 height=auto align="right">
 
 <ul>                  
  <li>Kali Linux</li>
@@ -38,6 +39,18 @@ IT & Information Security Specialist | Analyst
  <li>django</li>
  </ul>
  
+ <!-- <br> -->
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&locale=en" alt="xkendx" width="60%" /></p>
+
+<!-- <br /> -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xkendx&show_icons=true&locale=en&layout=compact" alt="xkendx" width="60%" /></p>
+
+<!-- <br /> -->
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="60%" /></p>
+<br />
+<br>
 <a href="https://stackshare.io/xkendx/my-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/xkendx/my-stack">
 </a>
@@ -57,4 +70,3 @@ IT & Information Security Specialist | Analyst
 <a href="http://www.kenandeniz.com.tr" target="_blank">
     <img src="https://img.shields.io/badge/%20-mysite-%231DA1F2" alt="http://www.kenandeniz.com.tr">
 </a>
-
