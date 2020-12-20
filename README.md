@@ -26,11 +26,11 @@ I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Ana
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>
 <br>
- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&locale=en" alt="xkendx" width="45%" /></p>
+ <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&locale=en" alt="xkendx" width="50%" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="45%" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="50%" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xkendx&show_icons=true&locale=en&layout=compact" alt="xkendx" width="45%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xkendx&show_icons=true&locale=en&layout=compact" alt="xkendx" width="50%" /></p>
 
 <a href="https://stackshare.io/xkendx/my-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/xkendx/my-stack">
