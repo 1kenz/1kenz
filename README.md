@@ -12,9 +12,11 @@ I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Ana
 
 ##
 
+<img src="https://github.com/xkendx/xkendx/blob/master/react.gif" alt="react" width=400 height=auto align="right">
+
+
 ## Knowledge always in my scope !!!
 
-<img src="https://github.com/xkendx/xkendx/blob/master/react.gif" alt="react" width=400 height=auto align="right">
 
 ### 🛠 What am I use? 
 
