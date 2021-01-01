@@ -29,24 +29,12 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Linux-77216F?logo=linux&logoColor=white&style=for-the-badge" /> 
 
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" idth="100%"</p>
-<br>
- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&locale=en" alt="xkendx" width="50%" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="50%" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xkendx&show_icons=true&locale=en&layout=compact" alt="xkendx" width="50%" /></p>
-<p><a href="https://stackshare.io/xkendx/my-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/xkendx/my-stack">
-</a></p>
--->
-
 
 ## 📈 Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=buefy" alt="my github stats" width="45%"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkendx&layout=compact&theme=buefy" alt="languages" width="45%" >
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="45%" /></p>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=buefy" alt="my github stats" width="45%"/>
+ <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="45%" /> &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkendx&layout=compact&theme=buefy" alt="languages" width="45%" >  </p>
 
 
 
