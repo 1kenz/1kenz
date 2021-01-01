@@ -44,7 +44,7 @@
 ## 📈 Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=buefy" alt="my github stats" width="50%"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkendx&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=buefy" alt="my github stats" width="50%"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkendx&layout=compact&theme=buefy" alt="languages" width="50%" >
  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="50%" /></p>
 </p>
 
@@ -53,7 +53,6 @@
 ## 👨👩 Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenan-deniz/)
 [![website](	https://img.shields.io/badge/%20-mysite-%231DA1F2?&style=for-the-badge&logoColor=white)](http://www.kenandeniz.com.tr)
-[![website](	https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vpagram/)
 [![website](	https://img.shields.io/badge/tech-stack-0690fa.svg?&style=for-the-badge&logoColor=white)](https://stackshare.io/xkendx/my-stack)
 [![website](	https://img.shields.io/badge/stack-share-%23E4405F.svg?&style=for-the-badge&logoColor=white)](https://stackshare.io/xkendx/my-stack)
 [![website](	https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14359078/xkendx)
