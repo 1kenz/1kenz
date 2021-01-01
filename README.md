@@ -51,20 +51,11 @@
 
 
 ## 👨👩 Social
-<a href="https://stackshare.io/xkendx/my-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/xkendx/my-stack">
-<a href="https://stackoverflow.com/users/14359078/xkendx" target="_blank">
-    <img src="https://img.shields.io/badge/%20-stackoverflow-2c3e50" alt="https://stackoverflow.com/users/14359078/xkendx">
-</a>
-<a href="https://www.linkedin.com/in/kenan-deniz" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/kenan-deniz">
-</a>
-<a href="mailto:kendentry@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:kendentry@gmail.com">
-</a>
-<a href="https://medium.com/@xkendx" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@xkendx">
-</a>
-<a href="http://www.kenandeniz.com.tr" target="_blank">
-    <img src="https://img.shields.io/badge/%20-mysite-%231DA1F2" alt="http://www.kenandeniz.com.tr">
-</a>
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenan-deniz/)
+[![website](	https://img.shields.io/badge/%20-mysite-%231DA1F2?&style=for-the-badge&logoColor=white)](http://www.kenandeniz.com.tr)
+[![website](	https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vpagram/)
+[![website](	https://img.shields.io/badge/tech-stack-0690fa.svg?&style=for-the-badge&logoColor=white)](https://stackshare.io/xkendx/my-stack)
+[![website](	https://img.shields.io/badge/stack-share-%23E4405F.svg?&style=for-the-badge&logoColor=white)](https://stackshare.io/xkendx/my-stack)
+[![website](	https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14359078/xkendx)
+[![website](	https://img.shields.io/badge/gmail-%B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kendentry@gmail.com)
+[![website](	https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@xkendx)
