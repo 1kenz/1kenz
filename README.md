@@ -64,9 +64,9 @@
 ## 👨👩 Social
 [![Linkedin: VPA]( https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white )]( https://www.linkedin.com/in/kenan-deniz/ )
 [![website](	https://img.shields.io/badge/%20-my%20site-%231DA1F2?&style=for-the-badge&logoColor=white )]( http://www.kenandeniz.com.tr )
+[![website](	https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange )]( https://stackoverflow.com/users/14359078/xkendx )
 [![website](	https://img.shields.io/badge/tech-stack-0690fa.svg?&style=for-the-badge&logoColor=white )]( https://stackshare.io/xkendx/my-stack )
 [![website](	https://img.shields.io/badge/stack-share-e74c3c.svg?&style=for-the-badge&logoColor=white )]( https://stackshare.io/xkendx/my-stack )
-[![website](	https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange )]( https://stackoverflow.com/users/14359078/xkendx )
 [![website](	https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red )]( mailto:kendentry@gmail.com )
 [![website](	https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white )]( https://medium.com/@xkendx )
 
