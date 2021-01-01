@@ -30,7 +30,7 @@
 
 
 <!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" idth="100%"</p>
 <br>
  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&locale=en" alt="xkendx" width="50%" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="50%" /></p>
