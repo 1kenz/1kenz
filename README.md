@@ -33,9 +33,9 @@
 ## 📈 Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=buefy" alt="my github stats" width="45%"/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="45%" /> </p>
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkendx&layout=compact&theme=buefy" alt="languages" width="45%" >  </p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="45%" /> <img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=buefy" alt="my github stats" width="45%"/></p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkendx&layout=compact&theme=buefy" alt="languages" width="45%" >
+
 
 
 
