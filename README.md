@@ -33,9 +33,10 @@ I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Ana
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xkendx&show_icons=true&locale=en&layout=compact" alt="xkendx" width="50%" /></p>
 
-<a href="https://stackshare.io/xkendx/my-stack">
+<p><a href="https://stackshare.io/xkendx/my-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/xkendx/my-stack">
-</a>
+</a></p>
+
 
 
 ## 📈 Statistics
@@ -45,7 +46,7 @@ I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Ana
 
 
 
-
+## Social
 <a href="https://stackoverflow.com/users/14359078/xkendx" target="_blank">
     <img src="https://img.shields.io/badge/%20-stackoverflow-2c3e50" alt="https://stackoverflow.com/users/14359078/xkendx">
 </a>
