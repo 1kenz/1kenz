@@ -1,13 +1,10 @@
-<!--
-**xkendx/xkendx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=tokyonight" align='right' width="60%"> -->
 <img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=300 height=auto align="right">
 
 ## Hi there 👋
 
 
-## Kenan is here.
+### Kenan is here.
 
 
 #### I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Analyst
