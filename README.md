@@ -30,18 +30,18 @@
 
 
 ## 👨👩 Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenan-deniz/)
-[![website](	https://img.shields.io/badge/%20-mysite-%231DA1F2?&style=for-the-badge&logoColor=white)](http://www.kenandeniz.com.tr)
-[![website](	https://img.shields.io/badge/tech-stack-%0690fa.svg?&style=for-the-badge&logoColor=white)](https://stackshare.io/xkendx/my-stack)
-[![website](	https://img.shields.io/badge/stack-share-%e74c3c.svg?&style=for-the-badge&logoColor=white)](https://stackshare.io/xkendx/my-stack)
-[![website](	https://img.shields.io/badge/stackoverflow-%ff9f43.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14359078/xkendx)
-[![website](	https://img.shields.io/badge/gmail-%B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kendentry@gmail.com)
-[![website](	https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@xkendx)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white )]( https://www.linkedin.com/in/kenan-deniz/ )
+[![website](	https://img.shields.io/badge/%20-my%20site-231DA1F2?&style=for-the-badge&logoColor=white )]( http://www.kenandeniz.com.tr )
+[![website](	https://img.shields.io/badge/tech-stack-0690fa.svg?&style=for-the-badge&logoColor=white )]( https://stackshare.io/xkendx/my-stack )
+[![website](	https://img.shields.io/badge/stack-share-e74c3c.svg?&style=for-the-badge&logoColor=white )]( https://stackshare.io/xkendx/my-stack )
+[![website](	https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange )]( https://stackoverflow.com/users/14359078/xkendx )
+[![website](	https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red )]( mailto:kendentry@gmail.com )
+[![website](	https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white )]( https://medium.com/@xkendx )
 
 
 ## 📈 Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="visitor counter" width="20%"/> </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true" alt="my github stats" width="50%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="50%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkendx&layout=compact" alt="languages" width="50%" > </p>
