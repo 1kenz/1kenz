@@ -26,19 +26,7 @@
 
 
 ## 💻 OS 
-<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Linux-77216F?logo=linux&logoColor=white&style=for-the-badge" /> 
-
-
-
-## 📈 Statistics
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=buefy" alt="my github stats" width="45%"/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="45%" />
-</p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkendx&layout=compact" alt="languages" width="45%" >
-
-
+<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Linux-77216F?logo=linux&logoColor=white&style=for-the-badge" /> 
 
 
 ## 👨👩 Social
@@ -46,6 +34,15 @@
 [![website](	https://img.shields.io/badge/%20-mysite-%231DA1F2?&style=for-the-badge&logoColor=white)](http://www.kenandeniz.com.tr)
 [![website](	https://img.shields.io/badge/tech-stack-0690fa.svg?&style=for-the-badge&logoColor=white)](https://stackshare.io/xkendx/my-stack)
 [![website](	https://img.shields.io/badge/stack-share-%23E4405F.svg?&style=for-the-badge&logoColor=white)](https://stackshare.io/xkendx/my-stack)
-[![website](	https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14359078/xkendx)
+[![website](	https://img.shields.io/badge/stackoverflow-%ff7b54.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14359078/xkendx)
 [![website](	https://img.shields.io/badge/gmail-%B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kendentry@gmail.com)
 [![website](	https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@xkendx)
+
+
+## 📈 Statistics
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true" alt="my github stats" width="45%"/>&nbsp;
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="45%" />
+</p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkendx&layout=compact" alt="languages" width="45%" >
