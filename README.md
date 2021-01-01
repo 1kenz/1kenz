@@ -9,11 +9,9 @@
 
 ### Kenan is here.
 
-<br><br>
 
 #### I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Analyst
 
-<br>
 
 ## Knowledge always in my scope !!!
 <img src="https://github.com/xkendx/xkendx/blob/master/react.gif" alt="react" width=350 height=auto align="right">
