@@ -15,7 +15,7 @@
 <br>
 
 ## Knowledge always in my scope !!!
-<img src="https://github.com/xkendx/xkendx/blob/master/react.gif" alt="react" width=350 height=auto align="right">
+<p><img src="https://github.com/xkendx/xkendx/blob/master/react.gif" alt="react" width=350 height=auto align="right"></p>
 
 
 
