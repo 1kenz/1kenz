@@ -9,14 +9,14 @@
 
 ### Kenan is here. <br>
 
-I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Analyst
-
-##
+#### I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Analyst
 
 
 
 ## Knowledge always in my scope !!!
 <img src="https://github.com/xkendx/xkendx/blob/master/react.gif" alt="react" width=350 height=auto align="right">
+
+
 
 
 ### 🚀🚀 🚀 Skills !
@@ -42,8 +42,11 @@ I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Ana
 
 
 ## 📈 Statistics
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xkendx" alt="xkendx" /> </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=xkendx&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkendx&layout=compact&theme=buefy" alt="languages" height="165">
+ <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xkendx&" alt="xkendx" width="50%" /></p>
+
 </p>
 
 
