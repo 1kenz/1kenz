@@ -7,7 +7,7 @@
 ### Kenan is here.
 
 
-#### I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Analyst
+### I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Analyst
 
 <br>
 
@@ -16,7 +16,7 @@
 
 
 
-## 🚀 Skills !
+## 🚀 Skills
 
 <p>
  <a href="#" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50"/> </a>  
