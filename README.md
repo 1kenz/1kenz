@@ -7,7 +7,7 @@
 <h2> Kenan is here. </h2>
 
 
-<h3> I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Analyst </h3>
+<h4> I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Analyst </h4>
 
 <br>
 
