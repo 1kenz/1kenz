@@ -54,9 +54,9 @@
 
 ## 💻 OS 
 <p>
-<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/Linux-77216F?logo=linux&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 </p>
 
 ## 👨👩 Social
