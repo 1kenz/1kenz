@@ -7,7 +7,7 @@
 ### Kenan is here.
 
 
-### I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Analyst
+<p>>bold> I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Analyst </bold></p>
 
 <br>
 
