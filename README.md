@@ -60,8 +60,11 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 </p>
 
-## <p><img src="https://favpng.com/png_view/badge-certificate-medal-quality-reward-icon-badge-symbol-illustration-png/W6RXv8bm" height="20" />  Certificates </p>
+## <p><img src="https://img.favpng.com/16/14/25/computer-icons-badge-symbol-illustration-png-favpng-bBp63zdxmfdTWaZXxePfHVcHm.jpg" height="20" />  Certificates </p>
  <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/2d8a1c02-779b-4b58-9e11-701dcbeaf380/Cyber_roles__process_Op_Sys_Sec.png" height="150" /> </a>
+ <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" height="150" /> </a>
+ <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/16bb3b0a-9b25-4165-8d70-3b4f88b17db4/Net_Security_DB_Vulnerable.png" height="150" /> </a>
+ <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png" height="150" /> </a>
 
 
 ## 👨👩 Social
