@@ -61,7 +61,7 @@
 </p>
 
 
-## <p><img src="https://img.favpng.com/16/14/25/computer-icons-badge-symbol-illustration-png-favpng-bBp63zdxmfdTWaZXxePfHVcHm.jpg" height="30" />  Certificates </p>
+## <p><img src="https://i.dlpng.com/static/png/6721295_preview.png" height="30" />  Certificates </p>
 <p>
 <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/2d8a1c02-779b-4b58-9e11-701dcbeaf380/Cyber_roles__process_Op_Sys_Sec.png" height="150" /> </a>
  <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" height="150" /> </a>
