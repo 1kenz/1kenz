@@ -43,7 +43,7 @@
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Tux%2C_gray%EF%BC%8Fgrey_background.png" alt="linux" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="linux" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://assets.ubuntu.com/v1/cb3ecebb-picto-ubuntu.svg" alt="ubuntu" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://deshmukhsuraj.files.wordpress.com/2016/07/home-kali-slider-1.png?w=768&h=575" alt="kali" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
