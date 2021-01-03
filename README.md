@@ -60,6 +60,10 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 </p>
 
+
+ <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/2d8a1c02-779b-4b58-9e11-701dcbeaf380/Cyber_roles__process_Op_Sys_Sec.png" /> </a>
+
+
 ## 👨👩 Social
 [![Linkedin: VPA]( https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white )]( https://www.linkedin.com/in/kenan-deniz/ )
 [![website](	https://img.shields.io/badge/%20-my%20site-%231DA1F2?&style=for-the-badge&logoColor=white )]( http://www.kenandeniz.com.tr )
