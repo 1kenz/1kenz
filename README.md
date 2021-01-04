@@ -9,7 +9,6 @@
 
 <h4> I'm a Full Stack & Mobile Developer | IT & Information Security Specialist | Analyst </h4>
 
-<br>
 
 ## Knowledge always in my scope !!! 
 <!-- <p><img src="https://github.com/xkendx/xkendx/blob/master/react.gif" alt="react" width=350 height=auto align="right"></p> -->
