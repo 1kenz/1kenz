@@ -7,7 +7,7 @@
 <h2> Kenan is here. </h2>
 
 
-<h4> Full-Stack & React & Mobile Developer | IT & Information Security Specialist | Analyst </h4>
+<h4> Full-Stack & React & Mobile Engineer | IT & Information Security Specialist | Analyst </h4>
 
 <br>
 
