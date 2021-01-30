@@ -3,9 +3,7 @@
 
 ## Hi there 👋
 
-
 <h2> Kenan is here. </h2>
-
 
 <h4> Full-Stack & React & React Native Engineer | IT & Information Security Specialist | Analyst </h4>
 
@@ -51,14 +49,12 @@
  <a href="#" target="_blank"> <img src="https://assets.brandfolder.com/pl546j-7le8zk-btwjnu/original/Slack_RGB.png" height="45"/> </a>
 </p>
 
-
 ## 💻 OS 
 <p>
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/Linux-77216F?logo=linux&logoColor=white&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 </p>
-
 
 ## <p><img src="https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f3c5.png" height="30" />  Certificates </p>
 <p> 
