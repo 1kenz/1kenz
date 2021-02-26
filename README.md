@@ -1,5 +1,5 @@
 
-<img src="https://github.com/xkendx/xkendx/blob/master/radar.gif" alt="radar" width=300 height=auto align="right">
+<img src="https://github.com/xkendx/xkendx/blob/main/radar.gif" alt="radar" width=300 height=auto align="right">
 
 ## Hi there 👋
 
