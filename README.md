@@ -15,6 +15,24 @@
 ## 🚀 Skills
 
 <p>
+ 
+ 
+
+ 
+ solid
+  solid
+  clean-code
+  design-pattern
+ 
+ <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/OOP.svg" alt="oop" width="300"/> </a>
+ <a href="#" target="_blank"> <img src="https://i2.wp.com/miro.medium.com/max/4000/1*hKu-BR5Ad0MIjXJhieayFg.png?resize=740%2C318&ssl=1" alt="python" width="300"/> </a>
+ <a href="#" target="_blank"> <img src="https://www.muratoner.net/wp-content/uploads/2020/06/1_XOMTPWTpDLypkp079p9XXg.png" alt="solid" width="150"/> </a>
+ <a href="#" target="_blank"> <img src="https://miro.medium.com/max/700/1*1Fl0dq4B7vq3zqR2k8bHdg.jpeg" alt="solid" width="300"/> </a>
+ <a href="#" target="_blank"> <img src="https://miro.medium.com/max/1472/1*ePZa2RpbmkGfRThjd5DTLA.jpeg" alt="clean-code" width="300"/> </a>
+  <a href="#" target="_blank"> <img src="https://cdn.yazilim.net/files/uploads/default/design-patterns-nedir-tasarim-desenlerine-genel-bir-bakis-b4e243a09750a18e40e8.png" alt="design-pattern" width="300"/> </a>
+
+ 
+ 
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" alt="java" width="100"/> </a>  
  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/900/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" alt="spring-boot" width="90"/> </a>  
