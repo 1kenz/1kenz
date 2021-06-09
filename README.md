@@ -19,11 +19,8 @@
  
 
  
- solid
-  solid
-  clean-code
-  design-pattern
  
+ <a href="#" target="_blank"> <img src="https://miro.medium.com/max/3840/1*6hyAepy2E5WQMomz1DKE-Q.png" alt="oop" width="300"/> </a>
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/OOP.svg" alt="oop" width="300"/> </a>
  <a href="#" target="_blank"> <img src="https://i2.wp.com/miro.medium.com/max/4000/1*hKu-BR5Ad0MIjXJhieayFg.png?resize=740%2C318&ssl=1" alt="python" width="300"/> </a>
  <a href="#" target="_blank"> <img src="https://www.muratoner.net/wp-content/uploads/2020/06/1_XOMTPWTpDLypkp079p9XXg.png" alt="solid" width="150"/> </a>
@@ -36,7 +33,7 @@
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" alt="java" width="100"/> </a>  
  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/900/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" alt="spring-boot" width="90"/> </a>  
-  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="45"/> </a> 
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a> 
