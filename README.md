@@ -21,7 +21,6 @@
  
  
  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/3840/1*6hyAepy2E5WQMomz1DKE-Q.png" alt="oop" width="300"/> </a>
- <a href="#" target="_blank"> <img src="https://www.muratoner.net/wp-content/uploads/2020/06/1_XOMTPWTpDLypkp079p9XXg.png" alt="solid" width="150"/> </a>
  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/700/1*1Fl0dq4B7vq3zqR2k8bHdg.jpeg" alt="solid" width="300"/> </a>
  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/1472/1*ePZa2RpbmkGfRThjd5DTLA.jpeg" alt="clean-code" width="300"/> </a>
  <a href="#" target="_blank"> <img src="https://cdn.yazilim.net/files/uploads/default/design-patterns-nedir-tasarim-desenlerine-genel-bir-bakis-b4e243a09750a18e40e8.png" alt="design-pattern" width="300"/> </a>
