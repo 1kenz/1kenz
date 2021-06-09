@@ -35,6 +35,7 @@
  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg" alt="ts" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" height="40"/> </a> 
+ <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="40"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" height="40"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> </a>
  <a href="#" target="_blank"> <img src="https://assets.ubuntu.com/v1/83ff4203-awshp-strip-customers.png" alt="aws" height="60"/> </a>
