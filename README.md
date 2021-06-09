@@ -16,6 +16,7 @@
 
 <p>
  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/3840/1*6hyAepy2E5WQMomz1DKE-Q.png" alt="oop" height="200" width="240"/> </a> 
+ <a href="#" target="_blank"> <img src="https://www.muratoner.net%2Fgenel%2Fsolid-prensipleri-nedir&psig=AOvVaw2DFexkT-nPgSDBJ-PDbWxX&ust=1623364684265000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICqmOzOi_ECFQAAAAAdAAAAABAF" alt="solid" height="200" width="240"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.yazilim.net/files/uploads/default/design-patterns-nedir-tasarim-desenlerine-genel-bir-bakis-b4e243a09750a18e40e8.png" alt="design-pattern" height="200" width="240"/> </a> 
  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/700/1*1Fl0dq4B7vq3zqR2k8bHdg.jpeg" alt="solid" height="200" width="240"/> </a> 
  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/1472/1*ePZa2RpbmkGfRThjd5DTLA.jpeg" alt="clean-code" height="200" width="240"/> </a>    
