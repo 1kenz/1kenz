@@ -15,14 +15,13 @@
 ## 🚀 Skills
 
 <p>
- <a href="#" target="_blank"> <img src="https://miro.medium.com/max/3840/1*6hyAepy2E5WQMomz1DKE-Q.png" alt="oop" height="250" width="300"/> </a>
- <a href="#" target="_blank"> <img src="https://cdn.yazilim.net/files/uploads/default/design-patterns-nedir-tasarim-desenlerine-genel-bir-bakis-b4e243a09750a18e40e8.png" alt="design-pattern" height="250" width="300"/> </a>
- <a href="#" target="_blank"> <img src="https://miro.medium.com/max/700/1*1Fl0dq4B7vq3zqR2k8bHdg.jpeg" alt="solid" height="250" width="300"/> </a>
- <a href="#" target="_blank"> <img src="https://miro.medium.com/max/1472/1*ePZa2RpbmkGfRThjd5DTLA.jpeg" alt="clean-code" height="250" width="300"/> </a>
-  
- <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" alt="java" width="100"/> </a>  
- <a href="#" target="_blank"> <img src="https://miro.medium.com/max/900/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" alt="spring-boot" width="90"/> </a>  
+ <a href="#" target="_blank"> <img src="https://miro.medium.com/max/3840/1*6hyAepy2E5WQMomz1DKE-Q.png" alt="oop" height="250" width="250"/> </a> 
+ <a href="#" target="_blank"> <img src="https://cdn.yazilim.net/files/uploads/default/design-patterns-nedir-tasarim-desenlerine-genel-bir-bakis-b4e243a09750a18e40e8.png" alt="design-pattern" height="250" width="250"/> </a> 
+ <a href="#" target="_blank"> <img src="https://miro.medium.com/max/700/1*1Fl0dq4B7vq3zqR2k8bHdg.jpeg" alt="solid" height="250" width="250"/> </a> 
+ <a href="#" target="_blank"> <img src="https://miro.medium.com/max/1472/1*ePZa2RpbmkGfRThjd5DTLA.jpeg" alt="clean-code" height="250" width="250"/> </a> 
+ <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a> 
+ <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" alt="java" width="100"/> </a> 
+ <a href="#" target="_blank"> <img src="https://miro.medium.com/max/900/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" alt="spring-boot" width="90"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="45"/> </a> 
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a> 
