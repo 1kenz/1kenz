@@ -45,14 +45,14 @@
 
 ## 🧠 Databases
 
+<a href="#" target="_blank"> <img src="https://assets.ubuntu.com/v1/83ff4203-awshp-strip-customers.png" alt="aws" height="70"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="60"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://iconape.com/wp-content/files/jy/81002/svg/microsoft-sql-server.svg" alt="MsSQL" height="60"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="60"/> </a> 
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="60"/> </a> 
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="MariaDB" height="60"/> </a> 
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="60"/> </a> 
-<a href="#" target="_blank"> <img src="https://assets.ubuntu.com/v1/83ff4203-awshp-strip-customers.png" alt="aws" height="70"/> </a> 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="60"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="MariaDB" height="60"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="60"/> </a> 
 
 ## ⚙ Tools
 
