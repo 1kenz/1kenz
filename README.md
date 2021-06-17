@@ -74,11 +74,11 @@
 
 ## 💻 Virtualization
 
- <a href="#" target="_blank"> <img src="https://osxinfo.net/eklentiler/vmware-png.148" alt="vmware" height="60"/> </a> 
- <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtual-box" height="60"/> </a>
- <a href="#" target="_blank"> <img src="https://www.nicepng.com/png/detail/913-9130319_hyper-v-logo-hyper-v-logo-png.png" alt="hyper-v" height="60"/> </a>
- <a href="#" target="_blank"> <img src="https://www.julienmousqueton.fr/content/images/size/w2000/2017/08/vspherelogo.png" alt="vmware-vsphere" height="60"/> </a>
- 
+<a href="#" target="_blank"> <img src="https://osxinfo.net/eklentiler/vmware-png.148" alt="vmware" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtual-box" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/xkendx/xkendx/blob/main/hyper-v.png" alt="hyper-v" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.julienmousqueton.fr/content/images/size/w2000/2017/08/vspherelogo.png" alt="vmware-vsphere" height="60"/> </a>
+
 ## 💻 OS
 
 <p>
