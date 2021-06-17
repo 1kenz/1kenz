@@ -67,9 +67,6 @@
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a> 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a> 
-<a href="#" target="_blank"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://assets.ubuntu.com/v1/cb3ecebb-picto-ubuntu.svg" alt="ubuntu" height="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://deshmukhsuraj.files.wordpress.com/2016/07/home-kali-slider-1.png?w=768&h=575" alt="kali" height="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="linux" height="60"/> </a> 
 
 ## 💻 Virtualization
 
@@ -86,7 +83,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/IOS-7D7D7D?logo=APPLE&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/UBUNTU-E95420?logo=UBUNTU&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kali Linux-02505C?logo=kali-linux&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kali Linux-000?logo=kali-linux&logoColor=white&style=for-the-badge" />
 
 </p>
 
