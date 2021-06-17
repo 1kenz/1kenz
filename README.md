@@ -86,6 +86,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/IOS-7D7D7D?logo=APPLE&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/UBUNTU-E95420?logo=UBUNTU&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/KALI-02505C?logo=KALI&logoColor=white&style=for-the-badge" />
 
 </p>
 
