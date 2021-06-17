@@ -23,12 +23,12 @@
 </p>
 
 ## 🚀 Frontend
- <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="45"/>  </a> 
+ <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" height="40"/> </a> 
  <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="50"/> </a> 
@@ -46,6 +46,7 @@
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> </a>
  <a href="#" target="_blank"> <img src="https://assets.ubuntu.com/v1/83ff4203-awshp-strip-customers.png" alt="aws" height="60"/> </a>
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/797/414/png-clipart-microsoft-sql-server-computer-servers-microsoft-angle-text.png" alt="MsSQL" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="MariaDB" height="50"/> </a> 
@@ -64,6 +65,10 @@
 <a href="#" target="_blank"> <img src="https://deshmukhsuraj.files.wordpress.com/2016/07/home-kali-slider-1.png?w=768&h=575" alt="kali" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="linux" height="60"/> </a>
 <br>
+
+## 💻 Virtualization
+
+
 
 ## 💻 OS
 
