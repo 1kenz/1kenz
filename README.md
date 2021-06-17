@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/Linux-77216F?logo=linux&logoColor=white&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
- <img src="https://img.shields.io/badge/IOS-7D7D7D?logo=IOS&logoColor=white&style=for-the-badge" />
+ <img src="https://img.shields.io/badge/7D7D7D?logo=IOS&logoColor=white&style=for-the-badge" />
 </p>
 
 ## <p><img src="https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f3c5.png" height="30" /> Certificates </p>
