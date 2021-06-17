@@ -74,7 +74,7 @@
 
 ## 💻 Virtualization
  <a href="#" target="_blank"> <img src="https://www.clipartmax.com/png/middle/92-925106_vmware-workstation-logo-png.png" alt="vmware" height="60"/> </a> 
- <a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/997/157/png-clipart-virtualbox-computer-icons-virtual-machine-operating-systems-virtualization-boxing-logo-sports.png" alt="virtual-box" height="60"/> </a>
+ <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtual-box" height="60"/> </a>
  <a href="#" target="_blank"> <img src="https://imgbin.com/png/9Ts1GAYF/hyper-v-microsoft-virtualization-master-microsoft-server-png" alt="hyper-v" height="60"/> </a>
  <a href="#" target="_blank"> <img src="https://www.vhv.rs/dpng/d/497-4978913_vmware-vsphere-icon-png-transparent-png.png" alt="vmware-vsphere" height="60"/> </a>
  
