@@ -75,7 +75,7 @@
 ## 💻 Virtualization
  <a href="#" target="_blank"> <img src="https://osxinfo.net/eklentiler/vmware-png.148" alt="vmware" height="60"/> </a> 
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtual-box" height="60"/> </a>
- <a href="#" target="_blank"> <img src="https://www.altaro.com/hyper-v/wp-content/uploads/2019/06/Hyper-V.jpg" alt="hyper-v" height="60"/> </a>
+ <a href="#" target="_blank"> <img src="https://www.mshowto.org/images/articles/2019/06/Hyper-V-Logo.png" alt="hyper-v" height="60"/> </a>
  <a href="#" target="_blank"> <img src="https://www.julienmousqueton.fr/content/images/size/w2000/2017/08/vspherelogo.png" alt="vmware-vsphere" height="60"/> </a>
  
 ## 💻 OS
