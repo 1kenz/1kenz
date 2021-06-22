@@ -24,6 +24,7 @@
 
 ## 💻 Frontend
 
+<p>
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
@@ -33,18 +34,22 @@
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
+</p>
 
 ## 💻 Backend
 
+<p>
 <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
 <a href="#" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" alt="java" width="100"/> </a>
 <a href="#" target="_blank"> <img src="https://miro.medium.com/max/900/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" alt="spring-boot" width="90"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.buttercms.com/4XpulFfySpWyYTXuaVL2" alt="express" height="50" /> </a>
+</p>
 
 ## 🧠 Databases
 
+<p>
 <a href="#" target="_blank"> <img src="https://assets.ubuntu.com/v1/83ff4203-awshp-strip-customers.png" alt="aws" height="70"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="60"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" height="50"/> </a> 
@@ -53,9 +58,11 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="MariaDB" height="60"/> </a> 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="60"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="60"/> </a> 
+</p>
 
 ## 📈 SEO & ASO
 
+<p>
 <a href="#" target="_blank"> <img src="" alt="google-search-console" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://diq.wikipedia.org/wiki/Dosya:Logo_Google_Analytics.svg" alt="google-analytics" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="" alt="google-data-studio" height="50"/> </a> 
@@ -65,11 +72,11 @@
 <a href="#" target="_blank"> <img src="" alt="semrush" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="" alt="moz" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="" alt="ubersuggest" height="50"/> </a> 
-
-
+</p>
 
 ## ⚙ Tools
 
+<p>
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" alt="sass" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg" alt="ts" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/452/visual-studio-2019.png" alt="visual-studio" height="50"/> </a> 
@@ -81,14 +88,16 @@
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a> 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a> 
-
+</p>
 
 ## 📽 Virtualization
 
+<p>
 <a href="#" target="_blank"> <img src="https://osxinfo.net/eklentiler/vmware-png.148" alt="vmware" height="60"/> </a> 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtual-box" height="60"/> </a> 
 <a href="#" target="_blank"> <img src="https://github.com/xkendx/xkendx/blob/main/hyper-v.png" alt="hyper-v" height="60"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.julienmousqueton.fr/content/images/size/w2000/2017/08/vspherelogo.png" alt="vmware-vsphere" height="60"/> </a> 
+</p>
 
 ## 💻 OS
 
@@ -99,7 +108,6 @@
 <img src="https://img.shields.io/badge/IOS-7D7D7D?logo=APPLE&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/UBUNTU-E95420?logo=UBUNTU&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Kali Linux-000?logo=kali-linux&logoColor=white&style=for-the-badge" />
-
 </p>
 
 ## <p><img src="https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f3c5.png" height="30" /> Certificates </p>
