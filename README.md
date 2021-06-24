@@ -63,7 +63,7 @@
 ## 📈 SEO & ASO
 
 <p>
-<a href="#" target="_blank"> <img src="" alt="google-search-console" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://diq.wikipedia.org/wiki/Dosya:Logo_Google_Analytics.svg" alt="google-search-console" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://diq.wikipedia.org/wiki/Dosya:Logo_Google_Analytics.svg" alt="google-analytics" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="" alt="google-data-studio" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="" alt="yandex-metrica" height="50"/> </a> 
