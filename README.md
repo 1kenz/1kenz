@@ -72,8 +72,8 @@
 <a href="#" target="_blank"> <img src="https://www.theseoguru.com/wp-content/uploads/2020/06/DataStudio.png" alt="google-data-studio" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="http://www.sinanbozkus.com/wp-content/uploads/2015/12/yandex_metrica.png" alt="yandex-metrica" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.screamingfrog.co.uk/wp-content/themes/screamingfrog/public/images/logos/logo@2x.png" alt="screaming-frog" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://dosya.wmaraci.com/nedir/moz.png" alt="moz" height="30"/> </a> 
-<a href="#" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/ahrefs-logo.png" alt="ahrefs" height="35"/> </a> 
+<a href="#" target="_blank"> <img src="https://dosya.wmaraci.com/nedir/moz.png" alt="moz" height="35"/> </a> 
+<a href="#" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/ahrefs-logo.png" alt="ahrefs" height="30"/> </a> 
 </p>
 
 ## ⚙ Tools
