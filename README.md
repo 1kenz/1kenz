@@ -63,7 +63,7 @@
 ## 📈 SEO & ASO
 
 <p>
-<a href="#" target="_blank"> <img src="" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://qph.fs.quoracdn.net/main-qimg-067ed9919f7ac3226c3284a5284731dd" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="" alt="google-data-studio" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="" alt="yandex-metrica" height="50"/> </a> 
