@@ -63,7 +63,7 @@
 ## 📈 SEO & ASO
 
 <p>
-<a href="#" target="_blank"> <img src="https://vitesse.digital/wp-content/uploads/2020/07/google-search-console.png" height="75"/> </a>
+<a href="#" target="_blank"> <img src="https://www.crmmedya.com/wp-content/uploads/2020/08/google-search-console-nedir.png" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.webtures.com/tr/blog/wp-content/uploads/2020/01/data-studio.jpg" alt="google-data-studio" height="60"/> </a> 
 <a href="#" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_2166c5219af4ae51c646b6194f0dbe62/yandex-metrica.png" alt="yandex-metrica" height="75"/> </a> 
