@@ -67,13 +67,13 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" height="40"/> </a> 
 <!-- <a href="#" target="_blank"> <img src="https://www.webtures.com/tr/blog/wp-content/uploads/2020/01/data-studio.jpg" alt="google-data-studio" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_2166c5219af4ae51c646b6194f0dbe62/yandex-metrica.png" alt="yandex-metrica" height="60"/> </a> 
+<a href="#" target="_blank"> <img src="https://cdn.semrush.com/__static__/favicon.3cd418d5bb49.ico" alt="semrush" height="40"/> </a> 
 -->
 <a href="#" target="_blank"> <img src="https://www.theseoguru.com/wp-content/uploads/2020/06/DataStudio.png" alt="google-data-studio" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="http://www.sinanbozkus.com/wp-content/uploads/2015/12/yandex_metrica.png" alt="yandex-metrica" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.screamingfrog.co.uk/wp-content/themes/screamingfrog/public/images/logos/logo@2x.png" alt="screaming-frog" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://dosya.wmaraci.com/nedir/moz.png" alt="moz" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/ahrefs-logo.png" alt="ahrefs" height="30"/> </a> 
-<a href="#" target="_blank"> <img src="https://cdn.semrush.com/__static__/favicon.3cd418d5bb49.ico" alt="semrush" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://dosya.wmaraci.com/nedir/moz.png" alt="moz" height="30"/> </a> 
+<a href="#" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/ahrefs-logo.png" alt="ahrefs" height="35"/> </a> 
 </p>
 
 ## ⚙ Tools
