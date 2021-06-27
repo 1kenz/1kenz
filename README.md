@@ -54,6 +54,20 @@
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="60"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="60"/> </a> 
 
+## 📈 SEO & ASO
+
+<a href="#" target="_blank"> <img src="" alt="google-search-console" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://diq.wikipedia.org/wiki/Dosya:Logo_Google_Analytics.svg" alt="google-analytics" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="" alt="google-data-studio" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="" alt="yandex-metrica" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="" alt="screaming-frog" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="" alt="ahrefs" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="" alt="semrush" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="" alt="moz" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="" alt="ubersuggest" height="50"/> </a> 
+
+
+
 ## ⚙ Tools
 
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" alt="sass" height="50"/> </a> 
@@ -67,6 +81,7 @@
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a> 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a> 
+
 
 ## 📽 Virtualization
 
