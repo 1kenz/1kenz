@@ -80,7 +80,7 @@
 
 <p>
 <a href="#" target="_blank"> <img src="https://i.pinimg.com/originals/6a/9d/0d/6a9d0d462cdc2b0b97e607f32aa124e9.png" alt="postman" height="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://www.soapui.org/smartbearbrand/media/images/logos/product-only/su_product-only-clr.svg" alt="soapui" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.soapui.org/smartbearbrand/media/images/logos/product-only/su_product-only-clr.svg" alt="soapui" height="40"/> </a> 
 </p>
 
 ## 📈 SEO & ASO
