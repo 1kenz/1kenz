@@ -10,6 +10,7 @@
 
 ## Knowledge always in my scope !!!
 ### Knowledge 🧠 & Coffee ☕ Lover ♥ !
+### Lifetime learner...
 
 <!-- <p><img src="https://github.com/xkendx/xkendx/blob/master/react.gif" alt="react" width=350 height=auto align="right"></p> -->
 
