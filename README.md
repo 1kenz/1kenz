@@ -4,7 +4,7 @@
 
 <h2> Kenan is here. </h2>
 
-<h4> Full-Stack & React & React Native Engineer | SEO & ASO | IT & Information Security Specialist | Analyst </h4>
+<h4> Full-Stack & React & React Native Developer | SEO & ASO | IT & Information Security Specialist | Analyst </h4>
 
 <br>
 
