@@ -70,7 +70,7 @@
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/452/visual-studio-2019.png" alt="visual-studio" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://github.com/xkendx/xkendx/blob/main/eclipse.png" alt="eclipse" height="35"/> </a> 
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="intelliJ-idea" height="35"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="intelliJ-idea" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a> 
@@ -85,6 +85,7 @@
 <p>
 <a href="#" target="_blank"> <img src="https://i.pinimg.com/originals/6a/9d/0d/6a9d0d462cdc2b0b97e607f32aa124e9.png" alt="postman" height="60"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.soapui.org/smartbearbrand/media/images/logos/product-only/su_product-only-clr.svg" alt="soapui" height="45"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.yazilimkoyu.org/wp-content/uploads/2021/06/swagger-banner.png" alt="swagger" height="50"/> </a> 
 </p>
 
 ## 📈 SEO & ASO
