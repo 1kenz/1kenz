@@ -4,12 +4,14 @@
 
 <h2> Kenan is here. </h2>
 
-<h4> Full-Stack & React & React Native Developer | SEO & ASO | IT & Information Security Specialist | Analyst </h4>
+<h4> Full-Stack & React & React Native Developer | SEO & ASO | Cyber & Information Security Specialist | Analyst </h4>
 
 <br>
 
 ## Knowledge always in my scope !!!
+
 ### Knowledge 🧠 & Coffee ☕ Lover ♥ !
+
 ### Lifetime learner...
 
 <!-- <p><img src="https://github.com/xkendx/xkendx/blob/master/react.gif" alt="react" width=350 height=auto align="right"></p> -->
@@ -64,6 +66,7 @@
 </p>
 
 ## ⚙ Tools
+
 <p>
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" alt="sass" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg" alt="ts" height="50"/> </a> 
