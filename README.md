@@ -127,11 +127,12 @@
 ## <p><img src="https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f3c5.png" height="30" /> Certificates </p>
 
 <p> 
- <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/680x680/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png" height="150" /> </a> 
- <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" height="150" /> </a> 
- <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/2d8a1c02-779b-4b58-9e11-701dcbeaf380/Cyber_roles__process_Op_Sys_Sec.png" height="150" /> </a> 
- <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png" height="150" /> </a> 
- <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/16bb3b0a-9b25-4165-8d70-3b4f88b17db4/Net_Security_DB_Vulnerable.png" height="150" />  </a>
+<a href="#" target="_blank"> <img src="https://www.credly.com/badges/b4861bbd-bc6b-46b6-b99f-bab974c4c32d" height="100" /> </a> 
+ <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/680x680/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png" height="100" /> </a> 
+ <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" height="100" /> </a> 
+ <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/2d8a1c02-779b-4b58-9e11-701dcbeaf380/Cyber_roles__process_Op_Sys_Sec.png" height="100" /> </a> 
+ <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png" height="100" /> </a> 
+ <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/16bb3b0a-9b25-4165-8d70-3b4f88b17db4/Net_Security_DB_Vulnerable.png" height="100" />  </a>
 </p>
 
 ## 👨👩 Social
