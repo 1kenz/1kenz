@@ -128,7 +128,6 @@
 
 <p> 
 <a href="#" target="_blank"> <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" height="125" /> </a>
-
 <a href="#" target="_blank"> <img src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" height="100" /> </a>
 <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/680x680/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png" height="125" /> </a>
 <a href="#" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" height="100" /> </a>
