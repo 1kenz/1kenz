@@ -137,7 +137,8 @@
 
 </p>
 
-<script src="https://tryhackme.com/badge/1481384"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ikenz.png" alt="TryHackMe">
+
 
 ## 👨👩 Social
 
