@@ -2,9 +2,9 @@
 
 ## Hi there 👋
 
-<h2> Kenan is here. </h2>
+<h2> Ken Z is here. </h2>
 
-<h4> Full-Stack & React & React Native Developer | SEO & ASO | Cyber & Information Security Specialist | Analyst </h4>
+<h4> M.Sc. || Cybersecurity Engineer & Instructor || Full-stack & Mobile Developer </h4>
 
 <br>
 
