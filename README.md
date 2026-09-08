@@ -15,7 +15,7 @@
   <!-- Quick Highlight Pills -->
   <p>
     <img src="https://img.shields.io/badge/Experience-12%2B%20Years-0A0E17?style=for-the-badge&logo=clockify&logoColor=00F0FF&labelColor=050811" alt="Experience" />
-    <img src="https://img.shields.io/badge/Security-NATO%20Grade%20InfoSec-0A0E17?style=for-the-badge&logo=shield&logoColor=00F0FF&labelColor=050811" alt="NATO Grade" />
+    <img src="https://img.shields.io/badge/Security-%20InfoSec-0A0E17?style=for-the-badge&logo=shield&logoColor=00F0FF&labelColor=050811" alt="NATO Grade" />
     <img src="https://img.shields.io/badge/Domain-Full--Stack%20%2B%20SecOps-0A0E17?style=for-the-badge&logo=terminal&logoColor=00F0FF&labelColor=050811" alt="Full Stack + SecOps" />
     <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-0A0E17?style=for-the-badge&logo=openai&logoColor=00F0FF&labelColor=050811" alt="AI Focus" />
   </p>
